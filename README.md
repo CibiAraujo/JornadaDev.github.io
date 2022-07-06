@@ -1,2 +1,7 @@
 # JornadaDev.github.io
-Currículo Jornada Dev
+Exercício da primeira aula do Jornada Dev-EBAC
+
+Utilizando:  
+Git/GitHub  
+Html  
+Pull Request
