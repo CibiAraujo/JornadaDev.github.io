@@ -43,6 +43,8 @@
 
 .name {
     color: #D6DBDF;
+    font-size: 25px;
+    text-align: center;
     font-size: 30px;
     letter-spacing: 2px;
     text-transform: uppercase;
