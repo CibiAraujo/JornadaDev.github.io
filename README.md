@@ -1,6 +1,6 @@
 # JornadaDev.github.io
 Projeto do Jornada Dev-EBAC:  
-Criar currículo fictício 
+Criar currículo fictício 👩🏾‍💻
 
 
 Utilizando:  
